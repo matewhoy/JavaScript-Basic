@@ -1,2 +1,2 @@
 # JavaScript_Basic
-This is an exercises using JavaScript
+These are some exercises of JavaScript
